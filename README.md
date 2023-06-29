@@ -10,8 +10,12 @@ Just a project to test with flutter, i cosume a API in order to obtain some info
 
 ### Install Dependencies
 
-```dart flutter pub get ```
+```dart 
+flutter pub get
+```
 
 ### Create APK
 
-```dart flutter build apk --release ```
+```dart 
+flutter build apk --release
+```
